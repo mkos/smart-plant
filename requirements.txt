@@ -1,0 +1,1 @@
+-e git+https://github.com/adafruit/Adafruit_Python_DHT.git@310c59b0293354d07d94375f1365f7b9b9110c7d#egg=Adafruit_DHT
